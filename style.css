@@ -1,0 +1,23 @@
+div.jumbotron {
+    background-color: pink;
+}
+
+div img.profile {
+    margin-top: 30px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+section.about {
+    min-height: 250px;
+}
+
+section.portofolio {
+    background-color: rgb(255, 221, 227);
+}
+
+footer {
+    margin-top: 30px;
+}
